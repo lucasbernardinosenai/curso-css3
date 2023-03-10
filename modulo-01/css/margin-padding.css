@@ -1,0 +1,31 @@
+*{margin:0;padding:0;}
+#exemplo{
+    background-color: green;
+    color: #fff;
+    width: 300px;
+    margin: 50px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+
+}
+
+#exemplo2{
+    background-color: rgb(52, 56, 131);
+    color: #e1dcdc;
+    width: 300px;
+    margin: 50px;
+    padding: 20px 10px 15px 25px
+    
+}
+
+#exemplo3{
+    background-color: rgb(98, 131, 52);
+    color: #76bcdd;
+    width: 300px;
+    margin: 50px;
+    padding: 20px
+    
+}
+
