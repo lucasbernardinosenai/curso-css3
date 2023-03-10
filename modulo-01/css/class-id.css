@@ -3,6 +3,13 @@
     color:blue;
 }
 
-.texto-secundario{
-    color: deepskyblue;
+#texto1{
+    background-color: crimson;
+
 }
+
+#texto2{
+    background-color: blueviolet;
+}
+
+    
